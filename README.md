@@ -41,6 +41,9 @@ It uses survey data collected from passengers to understand perceptions about cl
 BUS.ipynb              → Data analysis and regression modeling notebook
 css.csv                → Dataset with customer survey responses
 results/               → Visual outputs and model results
+
+⚠️ Note: The file css.csv contains confidential survey data collected for research purposes and is not publicly available.
+For demonstration, only code and analysis structure are provided.
 ```
 
 ---

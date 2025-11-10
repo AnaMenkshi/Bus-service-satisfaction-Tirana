@@ -86,5 +86,9 @@ results/               → Visual outputs and model results
 ##  Author
 
 **Ana Menkshi**  
-Master’s Student in Data Science & AI  
-University of Tirana
+
+---
+
+## License
+
+MIT License
